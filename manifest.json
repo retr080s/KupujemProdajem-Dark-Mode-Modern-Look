@@ -1,0 +1,24 @@
+{
+    "name": "KP Dark Mode",
+    "description": "KP Dark Mode",
+    "version": "1.0",
+    "manifest_version": 3,
+    "icons": {
+        "16": "16.png",
+        "48": "48.png",
+        "128": "128.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*.kupujemprodajem.com/*"
+            ],
+            "css": [
+                "main.css"
+            ],
+            "js": [
+                "main.js"
+            ]
+        }
+    ]
+}

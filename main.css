@@ -1,0 +1,43 @@
+html body {
+    background-color: #181818;
+}
+
+html .Header_header__eSk8a {
+    background-color: #181818;
+}
+
+html .Banner301_banner301__RONKt {
+    display: none;
+}
+
+html .MyKpMenu_list__tCy9k {
+    background-color: #242424;
+    border-radius: 15px;
+}
+
+html .MyKpMenu_leftColumn__jH06L {
+    border-radius: 0px 0px 15px 15px;
+    background-color: #242424;
+}
+
+html .HighlightBox_box__v375u {
+    background-color: #242424;
+    border-radius: 0 0 15px 15px;
+    color: #fff;
+}
+
+html .Link_link__J4Qd8:link,
+.Link_link__J4Qd8:visited {
+    color: #007ec3;
+}
+
+html .Link_link__J4Qd8 {
+    align-items: center;
+    color: #007ec3;
+    display: inline-flex;
+}
+
+html .Tabs_tabContent__tfZRo,
+.Tabs_tabList__b0nqd {
+    background-color: #242424;
+}
