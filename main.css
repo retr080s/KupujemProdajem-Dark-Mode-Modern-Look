@@ -497,8 +497,8 @@ html .MessageChatBox_chatBubble__StKa0.MessageChatBox_senderIsOwner__DsxLf {
 html .MessageChatBox_chatBox__ehBn5 {
     background: transparent url(12813.png) repeat;
     background-size: auto;
-    border: 1px solid var(--color-grayscale-elm-1);
-    border-radius: 0.4rem;
+    border: 1px solid #007ec3;
+    border-radius: 15px;
     display: flex;
     flex-direction: column-reverse;
     margin-bottom: 0.8rem;
@@ -533,4 +533,45 @@ html .ButtonSecondary_secondary__MOPh4 {
     box-shadow: var(--shadow-3);
     color: var(--color-primary-navy-blue);
     padding: 0.8rem 1.6rem;
+}
+
+html .TextField_textField__nLxbF {
+    background-color: #181a1b;
+    border: 0.1rem solid #007ec3;
+    border-radius: 15px;
+    color: #fff;
+    height: 100%;
+    outline: none;
+    padding: 0.7rem 0.8rem;
+    scrollbar-width: thin;
+    white-space: break-spaces;
+    width: 100%;
+}
+
+html .CategoryHeadline_box__sRVAt .CategoryHeadline_categoryRightNav__2yLUo {
+    background-color: #181a1b;
+    border: 0;
+    color: #007ec3;
+    height: 100%;
+    opacity: 0;
+    padding: 0.8rem;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: opacity .3s ease-in-out;
+    z-index: 2;
+}
+
+html .CategoryHeadline_box__sRVAt .CategoryHeadline_categoryLeftNav__BDgud {
+    background-color: #181a1b;
+    border: 0;
+    color: #007ec3;
+    height: 100%;
+    opacity: 0;
+    padding: 0.8rem;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: opacity .3s ease-in-out;
+    z-index: 2;
 }
