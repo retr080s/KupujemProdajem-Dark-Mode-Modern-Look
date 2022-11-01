@@ -186,3 +186,287 @@ html .Checkbox_label___QfTq {
     line-height: 1.85rem;
     color: #fff;
 }
+
+html .FooterBox_title__fadsj {
+    font-size: 2rem;
+    color: #fff;
+}
+
+html .SearchTagContainer_tags__FvBVR {
+    background-color: #1e2122;
+    padding: 0.8rem 0.8rem 0;
+}
+
+html .Link_link__J4Qd8:visited {
+    color: #007ec3;
+}
+
+html .NotificationItem_itemHolder___6TkM .NotificationItem_item__1NbXF .NotificationItem_title__X39R5 {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: #fff;
+    line-height: 2.8rem;
+}
+
+html .NotificationItem_itemHolder___6TkM .NotificationItem_item__1NbXF .NotificationItem_message__Iol5o {
+    display: inline-block;
+    line-height: 2rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: break-spaces;
+    width: 60rem;
+    color: #fff;
+}
+
+html .ReviewItem_adTitle__eU4Yf {
+    font-weight: 600;
+    margin-bottom: 0.8rem;
+    color: #fff;
+}
+
+html .ReviewItem_middleBox__qlU7K p {
+    color: #fff;
+    margin-right: 1.6rem;
+}
+
+html .ReviewItem_middleBox__qlU7K span {
+    color: #ffffff;
+    display: block;
+}
+
+html .MyReviewPage_header__pL1f2 .MyReviewPage_title__J6Gsl {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 2.8rem;
+    margin-bottom: 0.8rem;
+    color: #fff;
+}
+
+html .ReviewItem_commentHolder__AYOLp {
+    background-color: #007ec3;
+    border-radius: 5px;
+}
+
+html .ReviewItem_commentHolder__AYOLp {
+    word-wrap: break-word;
+    border-radius: 2px;
+    box-sizing: border-box;
+    display: inline-block;
+    font-size: 1.4rem;
+    margin-bottom: 0.8rem;
+    max-width: 42.2rem;
+    padding: 0.8rem;
+    position: relative;
+    z-index: 0;
+    color: #fff;
+}
+
+html .AdViewDescription_descriptionHolder__f7wKf {
+    margin: 1.6rem 0;
+    padding: 0 1.6rem;
+    word-break: break-word;
+    color: #fff;
+}
+
+html .AdViewInfo_infoBox__XQbkw .AdViewInfo_infoBoxTitle__AwVfo {
+    align-items: center;
+    display: flex;
+    font-size: 1.6rem;
+    font-weight: 700;
+    margin-bottom: 0.8rem;
+    color: #fff;
+}
+
+html .AdViewInfo_infoBox__XQbkw {
+    word-wrap: break-word;
+    margin-bottom: 0.8rem;
+    padding: 1.6rem;
+    color: #fff;
+}
+
+html .BreadcrumbHolder_breadcrumb__KAsXr div:first-child {
+    font-size: 1.4rem;
+    color: #fff;
+}
+
+html .BreadcrumbHolder_breadcrumbHolder__HPbVd {
+    line-height: 2rem;
+    padding: 0.8rem;
+    color: #fff;
+}
+
+html .ReviewList_reviewListHeader__dTVg_ p {
+    font-weight: 700;
+    color: #fff;
+}
+
+html .Button_children__3mYJw {
+    display: inline-flex;
+    color: #fff;
+}
+
+html .UserSummary_userNameHolder__Xv1xz {
+    align-items: center;
+    color: #007ec3;
+    display: flex;
+    line-height: 2rem;
+    margin-top: 0;
+    word-break: break-word;
+}
+
+html .ButtonSpecial_special__5lAxU {
+    background-color: #007ec3;
+    border-radius: 15px;
+    color: var(--color-primary-navy-blue);
+    height: 2.8rem;
+    line-height: 2rem;
+    padding: 0.4rem 0.8rem;
+}
+
+html .AdViewInfo_name__s_9p5 {
+    color: #007ec3;
+    font-size: 2.4rem;
+    line-height: 28px;
+    word-break: break-word;
+}
+
+html .UserSummary_userInfo__BWXVU p {
+    color: #007ec3;
+    line-height: 2rem;
+    margin-right: 1.6rem;
+}
+
+html .H1_pageTitleHolder__zB1E8 h1 {
+    color: #ffffff;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+html .UserSummary_userSummaryWideHolder__R7s1S {
+    background-color: #1e2122;
+    border: 1px solid #007ec3;
+    border-radius: 15px;
+    padding: 1.6rem;
+    position: relative;
+    z-index: 2;
+    margin-bottom: 1%;
+}
+
+html .AdItem_adHolder__GL0yo {
+    align-items: flex-start;
+    background-color: #1e2122;
+    border-radius: 4px;
+    display: flex;
+    height: 13.6rem;
+    padding: 0.8rem;
+    position: relative;
+    width: 100%;
+}
+
+html .AdItem_adInfoHolder___36KR p {
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    word-wrap: break-word;
+    display: -webkit-box;
+    font-size: 1.4rem;
+    line-height: 1.6rem;
+    overflow: hidden;
+    color: #fff;
+    text-overflow: ellipsis;
+}
+
+html .AdItem_name__BppRQ {
+    color: #007ec3;
+    font-size: 1.6rem;
+    font-weight: 400;
+    line-height: 2rem;
+    margin-bottom: 0.4rem;
+    max-height: 5.9rem;
+    overflow: hidden;
+}
+
+html .AdItem_adOuterHolder__Z29Nf {
+    border: 1px solid #007ec3;
+    border-radius: 4px;
+    margin-bottom: 0.8rem;
+    position: relative;
+    transition: border .3s ease-out;
+}
+
+html .AdItem_viewAndFavorite__pjskf .AdItem_count__iNDqG {
+    color: #fff;
+    margin-left: 0.4rem;
+}
+
+html .AdItem_descriptionHolder__xnkD4 p {
+    color: #fff;
+}
+
+html .GallerySlideItem_imageGalleryImageCustom__KrRyo {
+    align-items: center;
+    background: #1e2122;
+    border-radius: 2px;
+    display: flex;
+    height: 48rem;
+    justify-content: center;
+}
+
+html .AdViewInfo_imageHolder__axDnl {
+    align-content: center;
+    align-items: center;
+    background-color: #1e2122;
+    border: 1px solid #007ec3;
+    border-radius: 15px;
+    cursor: pointer;
+    display: flex;
+    height: 14rem;
+    justify-content: center;
+    margin-right: 1.6rem;
+    outline: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    width: 18.6rem;
+}
+
+html .GallerySlideItem_imageGalleryImageModal__Ai7UW div>div {
+    align-items: center;
+    display: inline-flex !important;
+    height: 100%;
+    justify-content: center;
+    width: 100%;
+    background-color: #1e2122;
+}
+
+html .GalleryModal_footer__JWrGc {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0.8rem;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    width: 100%;
+    background-color: #1e2122;
+}
+
+html .GalleryModal_modal__YooCM {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background-color: #1e2122;
+    justify-content: space-between;
+}
+
+html .BannerBox_box__mP3rY {
+    border: 1px solid var(--color-grayscale-elm-1);
+    font-size: 0;
+    position: relative;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    display: none;
+}
