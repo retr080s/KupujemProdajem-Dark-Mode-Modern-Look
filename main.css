@@ -611,3 +611,86 @@ html .ScrollToTop_holder__ckPJ_ {
     width: 4.5rem;
     z-index: 10;
 }
+
+html .Prepaid_itemHolder__KLgT8 .Prepaid_name__e37C_ {
+    display: flex;
+    width: 21rem;
+    color: #fff;
+}
+
+html .Prepaid_itemHolder__KLgT8 .Prepaid_amount__0r16D {
+    display: flex;
+    justify-content: flex-end;
+    width: 10.4rem;
+    color: red;
+}
+
+html .Prepaid_itemHolder__KLgT8 .Prepaid_description__AVKIz {
+    width: 38rem;
+    color: #fff;
+}
+
+html .Prepaid_prepaidForm__SpqTw .Prepaid_infoHolder__fpTDX {
+    border-bottom: 1px solid var(--color-grayscale-elm-1);
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    padding: 2.4rem;
+}
+
+html .AdItem_isDisplayGoldHeader__nsX0Y .AdItem_adHolder__GL0yo {
+    background-color: #46381a;
+    border-radius: 0.4rem;
+}
+
+html .AdItem_adOuterHolder__Z29Nf.AdItem_isDisplayGoldHeader__nsX0Y {
+    border: 1px solid #ffae00;
+    border-radius: 0.4rem;
+    background-color: #46381a;
+}
+
+html .AdGoldHeader_goldHeader__t_ira {
+    align-items: flex-start;
+    background: #46381a;
+    border: none;
+    border-radius: 0.4rem 0.4rem 0 0;
+    color: #ffae00 !important;
+    cursor: pointer;
+    display: flex;
+    font-size: 1.4rem;
+    height: 3.4rem;
+    justify-content: space-between;
+    outline: none;
+    padding: 0.4rem 0.4rem 0.4rem 0.8rem;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+html .Checkbox_checkmark__tKoRm {
+    background-color: #32455a;
+    border: 0.1rem solid var(--color-grayscale-elm-2);
+    border-radius: 2px;
+    box-shadow: var(--shadow-3);
+    height: 1.6rem;
+    left: 0;
+    position: absolute;
+    top: 0;
+    transition: all .1s;
+    width: 1.6rem;
+}
+
+html .CategoryHeadline_item__PEebz .CategoryHeadline_circle__rHieS {
+    background-color: #1e2122;
+    border: 1px solid var(--color-secondary-elm-blue);
+    border-radius: 50%;
+    height: 5rem;
+    margin-bottom: 0.2rem;
+    min-width: 5rem;
+    padding: 1.2rem;
+}
+
+html .TextField_textField__nLxbF:focus {
+    background-color: #1e2122;
+}
