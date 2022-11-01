@@ -694,3 +694,40 @@ html .CategoryHeadline_item__PEebz .CategoryHeadline_circle__rHieS {
 html .TextField_textField__nLxbF:focus {
     background-color: #1e2122;
 }
+
+html .css-lqbzoe-control {
+    -webkit-box-align: center;
+    align-items: center;
+    background-color: #1e2122;
+    border-color: #007ec3;
+    border-radius: 2px;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: rgb(51 51 51 / 10%) 0px 0.1rem 0.1rem 0px;
+    cursor: pointer;
+    display: flex;
+    flex-wrap: wrap;
+    color: #fff;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    min-height: 3.6rem;
+    position: relative;
+    transition: all 100ms ease 0s;
+    box-sizing: border-box;
+    height: 3.6rem;
+    outline: 0px !important;
+}
+
+html .css-s0ctya-singleValue {
+    color: #007ec3;
+    margin-left: 2px;
+    margin-right: 2px;
+    max-width: calc(100% - 8px);
+    overflow: hidden;
+    position: absolute;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    top: 50%;
+    transform: translateY(-50%);
+    box-sizing: border-box;
+}
