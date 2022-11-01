@@ -1,9 +1,10 @@
 html body {
-    background-color: #181818;
+    background-color: #1e2122;
 }
 
 html .Header_header__eSk8a {
-    background-color: #181818;
+    background-color: #1e2122;
+    margin-bottom: 1%;
 }
 
 html .Banner301_banner301__RONKt {
@@ -11,19 +12,21 @@ html .Banner301_banner301__RONKt {
 }
 
 html .MyKpMenu_list__tCy9k {
-    background-color: #242424;
+    background-color: #181a1b;
     border-radius: 15px;
 }
 
 html .MyKpMenu_leftColumn__jH06L {
     border-radius: 0px 0px 15px 15px;
-    background-color: #242424;
+    background-color: #181a1b;
+    border-color: #007ec3;
 }
 
 html .HighlightBox_box__v375u {
-    background-color: #242424;
+    background-color: #181a1b;
     border-radius: 0 0 15px 15px;
     color: #fff;
+    border-color: #007ec3;
 }
 
 html .Link_link__J4Qd8:link,
@@ -39,9 +42,49 @@ html .Link_link__J4Qd8 {
 
 html .Tabs_tabContent__tfZRo,
 .Tabs_tabList__b0nqd {
-    background-color: #242424;
+    background-color: #181a1b;
+    border-radius: 0px 0px 15px 15px;
+    border-color: #007ec3;
 }
 
 html .Fmcg_fmcg__I_usI {
     display: none;
+}
+
+html .CookieConsent_holder__ZsT3G {
+    display: none;
+}
+
+html .Grid_row__tr2af {
+    display: flex;
+    flex: 0 1 auto;
+    flex-direction: row;
+    background-color: #1e2122;
+}
+
+html .Footer_footer___ffOU {
+    background-color: #1e2122;
+    border-top: 0.1rem solid var(--color-grayscale-elm-1);
+    flex-grow: 0;
+    margin-top: 3.2rem;
+    padding: 2.4rem 0 3.2rem;
+    width: 100%;
+}
+
+html .Box_box__03Q3_ {
+    background-color: #181a1b;
+    border: 1px solid #007ec3;
+    border-radius: 15px;
+}
+
+html .Tabs_tabList__b0nqd {
+    border: 1px solid #007ec3;
+    border-radius: 15px 15px 0px 0px;
+    background-color: #181a1b;
+    display: flex;
+    position: relative;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
