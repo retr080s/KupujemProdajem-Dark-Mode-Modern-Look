@@ -88,3 +88,101 @@ html .Tabs_tabList__b0nqd {
     -ms-user-select: none;
     user-select: none;
 }
+
+html .Input_inputRow__jtTd8 input,
+.Input_label__Kyok7 {
+    color: #007ec3;
+}
+
+html .InputSearch_search__v4PPK input {
+    background-color: #181a1b;
+}
+
+html .InputSearch_search__v4PPK input:focus {
+    background-color: #181a1b;
+}
+
+html .SuggestionList_activeItem__uoGWI {
+    background: #8dbaed;
+}
+
+html .SuggestionList_suggestionsItem__4tPUf {
+    cursor: pointer;
+    line-height: 20px;
+    outline: none;
+    padding: 0.6rem 0.7rem;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: #1e2122;
+    color: #007ec3;
+}
+
+html .SuggestionList_recentSearchItem__f94m9 {
+    color: #007ec3;
+    display: flex;
+    justify-content: space-between;
+}
+
+html .SuggestionList_categoryLabel__1MA5q div {
+    border-bottom: 1px solid var(--color-grayscale-elm-1);
+    color: #0073c3;
+    margin-top: 1rem;
+    padding-bottom: 0.5rem;
+    background-color: #1e2122
+}
+
+html .SuggestionList_categoryLabel__1MA5q {
+    padding: 0.6rem 0.7rem;
+    background-color: #1e2122;
+}
+
+html .Input_inputRow__jtTd8 input {
+    background-color: #1e2122;
+    border: 0.1rem solid #0073c3;
+    border-radius: 15px 0px 0px 15px;
+    box-shadow: var(--shadow-3);
+    height: 3.6rem;
+    padding: 0.8rem;
+    transition: border-color .3s ease;
+    width: 100%;
+}
+
+html .ButtonSearch_search__nLSRu.ButtonSearch_isBlue__4Wdib {
+    background-color: var(--color-primary-sky-blue);
+    border-left: 0.1rem solid var(--color-primary-sky-blue);
+    border: 0.1rem solid var(--color-primary-sky-blue);
+    border-radius: 0px 15px 15px 0px;
+}
+
+html .FeedbackForm_trigger__6FHl2 {
+    background-color: #1e2122;
+    box-shadow: var(--shadow-1);
+    position: fixed;
+}
+
+html .MessageList_itemInner__El0Xh .MessageList_itemInfoName___720h {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #007ec3;
+}
+
+html .MessageList_itemInner__El0Xh>div:nth-child(2) {
+    margin-right: 3.6rem;
+    width: 20rem;
+    color: #007ec3;
+}
+
+html .MessageUserInfo_userName__B4b0W {
+    font-weight: 700;
+    line-height: 20px;
+    margin-left: 0.4rem;
+    color: #007ec3;
+}
+
+html .Checkbox_label___QfTq {
+    line-height: 1.85rem;
+    color: #fff;
+}
