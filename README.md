@@ -3,7 +3,7 @@
 KupujemProdajem Dark Mode Extension For Chromium based browsers (Brave, Chromium, Chrome).<br>
 As of right now i am trying to make it work on Firefox also.
 
-What does this extension include?
+What does this extension include?<br>
 -This extension includes dark mode, modern look for messages and whole website, smooth corners and removed ads.
 
 
