@@ -1,9 +1,11 @@
 # KupujemProdajem-Dark-Mode-Modern-Look
+<img src="https://img.shields.io/badge/test-phase-brightgreen"> <img src="https://img.shields.io/badge/version-1.0-brightgreen"> <img src="https://img.shields.io/badge/chromium-addon-blue"> <br>
 KupujemProdajem Dark Mode Extension For Chromium based browsers (Brave, Chromium, Chrome).<br>
 As of right now i am trying to make it work on Firefox also.
 
 What does this extension include?
 -This extension includes dark mode, modern look for messages and whole website, smooth corners and removed ads.
+
 
 <h1>Current Build</h1>
 
